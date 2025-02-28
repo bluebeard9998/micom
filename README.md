@@ -1,2 +1,2 @@
 # micom
-scheduled to apply for Xiaomi community bootloader unlock repeatedly &amp; automatically
+# scheduled to apply for Xiaomi community bootloader unlock repeatedly &amp; automatically
