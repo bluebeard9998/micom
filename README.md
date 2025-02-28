@@ -1,4 +1,3 @@
-# MicomTool is scheduled to apply for Xiaomi community bootloader unlock repeatedly &amp; automatically
 # What MicomTool Does
 This Python script is a tool designed to automate interactions with Xiaomi's community services, for unlocking privileges.
 # Here's what it does for users:
