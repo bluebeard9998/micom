@@ -36,7 +36,7 @@ This Python script is a tool designed to automate interactions with Xiaomi's com
 ---
 
 ### How to Use It
-- **Requirements**: You need Python installed with the `requests`, `ntplib`, and standard libraries.
+- **Requirements**: You need Python installed with the `requests`, `ntplib`, and standard libraries. (to install a pylib like ntplib for example you can use this command : "py -m pip install ntplib" )
 - **Running It**: Run the script in a terminal, enter your Xiaomi credentials when prompted, and let it work in the background.
 - **Stopping It**: Press Ctrl+C to exit gracefully.
 
